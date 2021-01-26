@@ -3,7 +3,7 @@
 ## How to get started?
 
 - Open the CMD in windows.
-- Change the current working directory to the location where you want the cloned directory.
+- Change the current working directory to the location where you have the cloned directory.
 - Type git clone, and then paste the URL you copied earlier.
 
 ```sh
