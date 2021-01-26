@@ -16,7 +16,7 @@ git clone [URL]
 npm install
 ```
 
-- And then run `npm start` to start the web-UI in development mode. 
+- And then run the following command to start the web-UI in development mode. 
 
 ```sh
 nodemon app.js
