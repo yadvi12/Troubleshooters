@@ -1,0 +1,36 @@
+<html>
+
+<head>
+  <title>Mod1</title>
+  <style>
+    img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 35%
+    }
+  </style>
+</head>
+
+<body>
+
+
+  <img id="bg" class="center" src="{{ url_for('video_feed') }}">
+
+  <script>
+    const wait = () => new Promise((res) => setTimeout(res, 200))
+    async function subscribe() {
+      await wait()
+      let response = await fetch('/check_success').then(Response => Response.json())
+      console.log(response)
+      if (response.Status === "Fail") {
+        return subscribe()
+      }
+      return true
+    }
+
+    subscribe().then(() => console.log("Confidence Achieved"))
+  </script>
+</body>
+
+</html>

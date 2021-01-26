@@ -1,0 +1,123 @@
+@import url('https://db.onlinewebfonts.com/c/999d88f087cee910ffcd5463095970f4?family=Paperclip');
+  @import url(https://fonts.googleapis.com/css?family=Share:400,700&subset=latin,latin-ext);
+
+body {
+    padding-top: 20px;
+    background-color: #FAA42D;
+  }
+.center {
+  text-align: center;
+}
+  h1 {
+    text-align: center;
+    /* padding-bottom: 10px; */
+    /* font-family: Share, Helvetica, Arial, sans-serif; */
+    font-family: Share, Helvetica, Arial, sans-serif;
+    font-size: 45px;
+    color: black;
+  }
+  h2 {
+    text-align: center;
+    padding-bottom: 20px;
+    font-family: Share, Helvetica, Arial, sans-serif;
+    color: black;
+    
+  }
+  
+  .card-deck {
+    margin: 0 -15px;
+    justify-content: space-between;
+  }
+  
+  .card-deck .card {
+    margin: 0 0 1rem;
+  }
+  
+  @media (min-width: 576px) and (max-width: 767.98px) {
+    .card-deck .card {
+      -ms-flex: 0 0 48.7%;
+      flex: 0 0 48.7%;
+    }
+  }
+  
+  @media (min-width: 768px) and (max-width: 991.98px) {
+    .card-deck .card {
+      -ms-flex: 0 0 32%;
+      flex: 0 0 32%;
+    }
+  }
+  
+  @media (min-width: 992px)
+  {
+    .card-deck .card {
+      -ms-flex: 0 0 24%;
+      flex: 0 0 24%;
+    }
+  }
+  button:focus {
+	outline: none;
+}
+.containerBtn {
+	display: flex;
+	align-content: center;
+	text-align: center;
+	margin: auto;
+  padding: 20px;
+  
+}
+/* button {
+	width: 250px;
+	height: 50px;
+	text-transform: uppercase;
+	text-decoration: none;
+	transition: 0.2s;
+} */
+
+.b {
+  width: 250px;
+	height: 50px;
+	text-transform: uppercase;
+	text-decoration: none;
+  transition: 0.2s;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+.a {
+  width: 250px;
+	height: 50px;
+	text-transform: uppercase;
+	text-decoration: none;
+  transition: 0.2s;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+#light-bulb {
+	color: black;
+}
+@keyframes shine {
+	from {
+		transform: translatex(-5px);
+		font-size: 20px;
+	}
+	to {
+		transform: translatex(10px);
+		font-size: 22px;
+	}
+}
+
+#moreBtn {
+	transition: 0.2s;
+	color: #ffa62b;
+	background: none;
+	border: 2px solid #ffa62b;
+	border-radius: 100px;
+}
+#moreBtn:hover > #light-bulb {
+	animation: shine 0.5s alternate infinite;
+}
+#moreBtn:hover {
+	color: black;
+	background: #ffa62b;
+	/* box-shadow: 0 0 10px #ff5722, 0 0 40px #ff5722, 0 0 80px #ff5722; */
+}
+  
