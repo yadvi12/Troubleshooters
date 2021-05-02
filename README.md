@@ -50,7 +50,7 @@ The Project is released under the terms of the [MIT License](LICENSE).
   </p>
 </td>
       
-   <td align="center"><a href="https://github.com/yadvi12"><img src="/images/WhatsApp Image 2021-04-30 at 7.14.36 PM.jpeg" width="" height="" alt=""/><br /><sub><b>YADVI BHALLA</b></sub></a><br />
+   <td align="center"><a href="https://github.com/yadvi12"><img src="" width="" height="" alt=""/><br /><sub><b>YADVI BHALLA</b></sub></a><br />
     <p align="center">
    
    <a href="https://www.linkedin.com/in/yadvibhalla1210" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
@@ -59,15 +59,8 @@ The Project is released under the terms of the [MIT License](LICENSE).
   </p>
 
 </td>
- <td align="center"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/1500684?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Kent C. Dodds</b></sub></a><br /><a href="#question-kentcdodds" title="Answering Questions">💬</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=kentcdodds" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Akentcdodds" title="Reviewed Pull Requests">👀</a> <a href="#talk-kentcdodds" title="Talks">📢</a></td>
+ <td align="center"><a href="https://kentcdodds.com"><img src="/images/WhatsApp Image 2021-04-30 at 7.14.36 PM.jpeg" width="100px;" alt=""/><br /><sub><b>Kent C. Dodds</b></sub></a><br /><a href="#question-kentcdodds" title="Answering Questions">💬</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=kentcdodds" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Akentcdodds" title="Reviewed Pull Requests">👀</a> <a href="#talk-kentcdodds" title="Talks">📢</a></td>
    
-   <td align="center"><a href="https://github.com/Reeti1605"><img src="/images/WhatsApp Image 2020-10-09 at 1.25.32 PM.jpeg" width="" height=""  alt=""/><br /><sub><b>ANNANYA PANDEY</b></sub></a><br />
-<p align="center">
-    
-   <a href="https://www.linkedin.com/in/reeti-jha-9672691b4/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:jha.reeti@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://github.com/Reeti1605/Webportfolio" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
-  </p>
-</td>
+   
   </tr>
   </table>
