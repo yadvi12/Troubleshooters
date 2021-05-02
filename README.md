@@ -26,7 +26,7 @@ nodemon app.js
 port:3000
 ```
 
-## LICENSE:
+## License:
 The Project is released under the terms of the [MIT License](LICENSE).
 
 </br>
