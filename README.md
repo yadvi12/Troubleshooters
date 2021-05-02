@@ -1,4 +1,4 @@
-# Team Troubleshooters
+# Team Troubleshooters Initiative - Election Buddy
 
 ## Problem Statement:
 
