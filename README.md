@@ -26,6 +26,13 @@ nodemon app.js
 port:3000
 ```
 
+## Community and Contributions:
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Please note we have a code of conduct, follow it in all your interactions with the project.
+
+## Found a Bug? Missing a specific feature?
+
+Feel free to **file a new issue** with a respective title and description on the repository. If you already found a solution to your problem, **we would love to review your pull request**! Have a look at our [contribution guidelines]() to find out about our coding standards.
+
 ## License:
 The Project is released under the terms of the [MIT License](LICENSE).
 
