@@ -31,7 +31,7 @@ When contributing to this repository, please first discuss the change you wish t
 
 ## Found a Bug? Missing a specific feature?
 
-Feel free to **file a new issue** with a respective title and description on the repository. If you already found a solution to your problem, **we would love to review your pull request**! Have a look at our [contribution guidelines]() to find out about our coding standards.
+Feel free to **file a new issue** with a respective title and description on the repository. If you already found a solution to your problem, **we would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/yadvi12/Troubleshooters/blob/main/CONTRIBUTING.md) to find out about our coding standards.
 
 ## License:
 The Project is released under the terms of the [MIT License](LICENSE).
