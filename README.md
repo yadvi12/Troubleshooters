@@ -34,7 +34,7 @@ The Project is released under the terms of the [MIT License](LICENSE).
 
 <div align="center">
     <a href="https://allcontributors.org">
-        <img width="30%" height="50%" src="xd.svg" alt="✨ All Contributors ✨" width="800px" />
+        <img width="30%" height="50%" src="/images/contribute.svg" alt="✨ All Contributors ✨" width="800px" />
     </a>
 </div>
 
