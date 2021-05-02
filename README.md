@@ -39,7 +39,7 @@ The Project is released under the terms of the [MIT License](LICENSE).
 </div>
 
 </br>
-
+<div align="center">
 <table>
   <tr align = "center">
        <td align="center"><a href="https://github.com/AnanyaNegi"><img src="/images/ananya.jpeg" width="" height="" alt=""/><br /><sub><b>SNEHA SUNIL</b></sub></a><br /><p align="center">
@@ -64,3 +64,4 @@ The Project is released under the terms of the [MIT License](LICENSE).
    
   </tr>
   </table>
+  </div>
