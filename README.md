@@ -30,15 +30,6 @@
 <br>
 ⮞ The reduction in organizational and implementation costs significantly increases the efficiency of election management compared to the offline voting system.
 
-## Technologies used:
-- Node.js
-- HTML
-- CSS
-- Javascript
-- MongoDB
-- Bootstrap
-- EJS
-
 ## How to get started?
 
 ⮞ Open the CMD in windows.
