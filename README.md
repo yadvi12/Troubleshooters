@@ -68,7 +68,5 @@ The Project is released under the terms of the [MIT License](LICENSE).
     <a href="https://github.com/Reeti1605/Webportfolio" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
 </td>
-   
-  
-    </tr>
-    </table>
+  </tr>
+  </table>
