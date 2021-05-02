@@ -42,7 +42,7 @@ The Project is released under the terms of the [MIT License](LICENSE).
 <div align="center">
 <table>
   <tr align = "center">
-       <td align="center"><a href="https://github.com/AnanyaNegi"><img src="/images/ananya.jpeg" width="" height="" alt=""/><br /><sub><b>SNEHA SUNIL</b></sub></a><br /><p align="center">
+       <td align="center"><a href="https://github.com/AnanyaNegi"><img src="/images/WhatsApp Image 2021-05-02 at 11.04.54 AM.jpeg" width="220px" height="210px" alt=""/><br /><sub><b>SNEHA SUNIL</b></sub></a><br /><p align="center">
     
    <a href="https://www.linkedin.com/in/ananya-negi-42922018a" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:ananya4negi@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
