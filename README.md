@@ -18,9 +18,9 @@
 
 ⮞ In any country democratic voting is the most important event that allow its citizens to exercise their power by voting and electing their representatives. And to protect this right of the citizens, conducting fair elections is the basic prerequisite for any country. 
 <br>
-⮞ In a democratic system, **every vote counts**.Yet, many adult citizens don't cast their votes on election day. They may be out of town or they feel that the voting center is located too far. 
+⮞ In a democratic system, **every vote counts**.Yet many adult citizens don't cast their votes on election day. They may be out of town or they feel that the voting center is located too far. 
 <br>
-⮞ Replacement of this system is necessary to limit the voting frauds and to make the voting as well as counting process more transparent. Further a system is required that makes voting more convenient for the voters a system that minimizes the cost of conducting elections as money spent on national elections is huge. A system which allows us to vote even when we are traveling abroad or are not present in our home state. 
+⮞ Replacement of this system is necessary to limit voting frauds and to make the voting and counting processes more transparent. Further a system is required that makes voting more convenient for the voters a system that minimizes the cost of conducting elections as money spent on national elections is huge. A system which allows us to vote even when we are traveling abroad or are not present in our home state. 
 
 ## Solution:
 
