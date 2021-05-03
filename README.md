@@ -24,7 +24,7 @@
 
 ## Solution:
 
-⮞ The Online voting system tends to maximize user participation, by allowing them to vote from anywhere and allowing access from different computer systems and from any device that has an internet connection. Voting on the Internet provides a safe and private channel that allows all users to participate on equal terms. 
+⮞ The Online voting system tends to maximize user participation, by allowing them to vote from anywhere and allowing access from different computer systems and from any device that has an internet connection. Voting on the internet provides a safe and private channel that allows all users to participate on equal terms. 
 <br>
 ⮞ Increased accessibility for residents abroad and for persons with difficulties in travelling or reduced mobility. This also has a positive impact on the final turnout and therefore on the legitimacy of the election. 
 <br>
